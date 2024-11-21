@@ -70,10 +70,8 @@ Sigue las instrucciones en pantalla para configurar el tamaño deseado de tu arc
 ## 📸 Capturas de Pantalla
 
 <div align="center">
-
-![Captura 1](https://github.com/UserZero075/SpawnSpace/blob/main/previews/photo_2024-11-21_00-06-22.jpg?raw=true)
-![Captura 2](https://github.com/UserZero075/SpawnSpace/blob/main/previews/photo_2024-11-21_00-12-12.jpg?raw=true)
-
+    <img src="https://github.com/UserZero075/SpawnSpace/blob/main/previews/photo_2024-11-21_00-06-22.jpg?raw=true" width="400" height="300" style="margin-right: 10px"/>
+    <img src="https://github.com/UserZero075/SpawnSpace/blob/main/previews/photo_2024-11-21_00-12-12.jpg?raw=true" width="400" height="300"/>
 </div>
 
 ## ⚙️ Requisitos
