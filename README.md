@@ -112,4 +112,3 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 Desarrollado con ❤️ por [UserZero075](https://github.com/UserZero075)
 
 </div>
-```
