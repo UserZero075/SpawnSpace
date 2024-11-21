@@ -71,8 +71,8 @@ Sigue las instrucciones en pantalla para configurar el tamaño deseado de tu arc
 
 <div align="center">
 
-![Captura 1](https://via.placeholder.com/400x200.png?text=Captura+1)
-![Captura 2](https://via.placeholder.com/400x200.png?text=Captura+2)
+![Captura 1](https://github.com/UserZero075/SpawnSpace/blob/main/previews/photo_2024-11-21_00-06-22.jpg?raw=true)
+![Captura 2](https://github.com/UserZero075/SpawnSpace/blob/main/previews/photo_2024-11-21_00-12-22.jpg?raw=true)
 
 </div>
 
