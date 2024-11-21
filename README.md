@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Versión-1.0-blue?style=for-the-badge"/>
     <br>
     <img src="https://img.shields.io/badge/Mantenimiento-Activo-green?style=for-the-badge"/>
-    <img src="https://img.shields.io/github/license/UserZero075/spawn-space?style=for-the-badge"/>
+    <img src="https://img.shields.io/github/license/UserZero075/spawnspace?style=for-the-badge"/>
 </p>
 
 <p align="center">
@@ -50,10 +50,10 @@ Spawn Space es una herramienta interactiva diseñada para simplificar la gestió
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/UserZero075/spawn-space.git
+git clone https://github.com/UserZero075/spawnspace.git
 
 # Entrar al directorio
-cd spawn-space
+cd spawnspace
 
 # Dar permisos de ejecución
 chmod +x aumente_spawn_space.bash
